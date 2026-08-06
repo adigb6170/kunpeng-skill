@@ -1,0 +1,4 @@
+interface:
+  display_name: "鲲鹏 Skill"
+  short_description: "全本地收集蒸馏多源素材，并生成可复现规范与产品方案"
+  default_prompt: "使用 $kunpeng-skill 本地分析我的素材或需求，完成蒸馏、收录或产品方案。"
