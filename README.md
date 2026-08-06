@@ -78,6 +78,18 @@ Skill 使用通用的 `SKILL.md + references/ + scripts/` 结构。以下宿主�
 
 ## 快速配置
 
+### Codex 一键安装
+
+在 Codex 中直接发送：
+
+```text
+请使用 $skill-installer 从 GitHub 安装 kunpeng-skill：
+
+https://github.com/hufeng173/kunpeng-skill
+
+Skill 位于仓库根目录，path 为 .，安装名称为 kunpeng-skill，安装到默认的 $CODEX_HOME/skills 目录。不要覆盖已有同名目录；如果已安装，请先报告。完成后验证 SKILL.md，并告诉我下一轮如何调用。
+```
+
 ### 1. 挂载完整目录
 
 复制或链接整个 `kunpeng-skill`，必须同时保留：
